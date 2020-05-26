@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "answer": "boxing",
+    "choices": ["boxing", "darts", "suikyu", "sumo"]
+  },
+  {
+    "id": 2,
+    "answer": "darts",
+    "choices": ["boxing", "darts", "suikyu", "sumo"]
+  },
+  {
+    "id": 3,
+    "answer": "suikyu",
+    "choices": ["boxing", "darts", "suikyu", "sumo"]
+  },
+  {
+    "id": 4,
+    "answer": "sumo",
+    "choices": ["boxing", "darts", "suikyu", "sumo"]
+  }
+]
